@@ -1,2 +1,3 @@
-# -journey-optimizer-learn.en
+# journey-optimizer-learn.en
+
 Journey Optimizer Learn Tutorials
