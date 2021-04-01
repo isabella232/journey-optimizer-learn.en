@@ -1,5 +1,5 @@
 ---
-cloud: experience-cloud
+cloud: Experience Cloud
 solution: Journey Orchestration
 product: experience cloud
 type: Tutorial
