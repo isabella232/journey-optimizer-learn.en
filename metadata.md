@@ -1,7 +1,7 @@
 ---
 cloud: Experience Cloud
-solution: Journey Orchestration
-product: experience cloud
+solution: Journey Optimizer
+product: adobe journey optimizer
 type: Tutorial
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/journey-optimizer-learn.en
