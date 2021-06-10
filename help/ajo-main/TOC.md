@@ -6,8 +6,8 @@ user-guide-description: Here are Journey Optimizer Learn Tutorials.
 
 # Journey Optimizer Learn Tutorials {#tutorials}
 
-+ [Overview](overview.md)
-+ Introduction to Journey Optimizer {#introduction- to-journey-optimizer)
++ [Overview](/help/overview.md)
++ Introduction to Journey Optimizer {#introduction-to-journey-optimizer)
 + Get started {#get-started}
   + Access control {#access-set-up}
     + [access-management](/help/set-up-access/access-management.md)
