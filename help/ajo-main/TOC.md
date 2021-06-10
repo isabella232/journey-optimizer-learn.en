@@ -12,8 +12,8 @@ user-guide-description: Here are Journey Optimizer Learn Tutorials.
   + Access control {#access-set-up}
     + [access-management](/help/set-up-access/access-management.md)
   + Data source configuration {#data-source-configuration}
-  + Channel configuration {#channel-configuratio}
-  + Resource set up {#resouce-set-up}
+  + Channel configuration {#channel-configuration}
+  + Resource set up {#resource-set-up}
   + Decision management configuration {#decision-management-configuration}
   + Journeys configuration{#journey-configuration}
 + Create messages {#create-messages}
