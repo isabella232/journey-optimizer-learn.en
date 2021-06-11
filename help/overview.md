@@ -1,10 +1,10 @@
 ---
-title: Journey Optimizer Tutorials - Overview
-description: This is the article overview.
+title: Journey Optimizer Videos and Tutorials
+description: This user guide contains videos and tutorials on features and capabilities of Adobe Journey Optimizer.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 ---
 
-# Journey Optimizer Tutorials- Overview
+# Journey Optimizer Videos and Tutorials
 
 ![](./assets/ajo-banner.png)
 

@@ -19,6 +19,7 @@ user-guide-description: Here are Journey Optimizer Learn Tutorials.
 + Create messages {#create-messages}
 + Personalize content {#personalize-content}
   + [Profile and segment membership-based personalization](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
+  + [Add offers as personalization](/help/personalize-content/add-offer-decisioning-to-messages)
 + Create journeys {#create-journeys}
 + Report and monitor {#report-and-monitor}
   + [Live and global reports](/help/report-and-monitor/live-and-global-reports.md)
