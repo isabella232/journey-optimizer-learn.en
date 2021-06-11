@@ -10,7 +10,7 @@ user-guide-description: Here are Journey Optimizer Learn Tutorials.
 + Introduction to Journey Optimizer {#introduction-to-journey-optimizer}
 + Get started {#get-started}
   + Access control {#access-set-up}
-    + [access-management](/help/set-up-access/access-management.md)
+    + [Access management](/help/set-up-access/access-management.md)
   + Data source configuration {#data-source-configuration}
   + Channel configuration {#channel-configuration}
   + Resource set up {#resource-set-up}
@@ -18,6 +18,7 @@ user-guide-description: Here are Journey Optimizer Learn Tutorials.
   + Journeys configuration{#journey-configuration}
 + Create messages {#create-messages}
 + Personalize content {#personalize-content}
+  + [Profile and segment membership-based personalization](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
 + Create journeys {#create-journeys}
 + Report and monitor {#report-and-monitor}
   + [Live and global reports](/help/report-and-monitor/live-and-global-reports.md)
