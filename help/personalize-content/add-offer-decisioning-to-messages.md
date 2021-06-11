@@ -1,7 +1,7 @@
 ---
-title: [AJO] Add offers as personalization
+title: Add offers as personalization
 description: Learn how to add an offer decisioning component to messages in Journey Optimizer.
-KT: 8033
+kt: 8033
 thumbnail: 334086.jpg
 feature: Personalization
 doc-type: feature video
