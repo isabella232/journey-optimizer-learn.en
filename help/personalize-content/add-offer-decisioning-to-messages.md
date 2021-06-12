@@ -2,7 +2,7 @@
 title: Add offers as personalization
 description: Learn how to add an offer decisioning component to messages in Journey Optimizer.
 kt: 8033
-thumbnail: 334086.jpg
+thumbnail: 334088.jpg
 feature: Personalization
 doc-type: feature video
 team: PM
@@ -14,7 +14,7 @@ level: Beginner
 
 Learn how to add an offer decisioning component to messages in Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/334086?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/334088?quality=12)
 
 ## Additional information
 
