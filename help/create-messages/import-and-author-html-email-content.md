@@ -1,5 +1,5 @@
 ---
-title: Import and author email content with the message editor
+title: Import and author HTML email content with the message editor
 description: Learn how to import existing HTML content, tweak the design, add mirror page and unsubscribe links, and how to code your content.
 kt: 7535
 thumbnail: 334102.jpg
@@ -10,7 +10,7 @@ role: Business Practitioner
 level: Beginner
 ---
 
-# Import and author email content with the message editor
+# Import and author HTML email content with the message editor
 
 Learn how to import existing HTML content, tweak the design, add mirror page and unsubscribe links, and how to code your content.
 
