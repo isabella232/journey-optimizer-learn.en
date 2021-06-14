@@ -9,8 +9,7 @@ user-guide-description: Here are Journey Optimizer Learn Tutorials.
 + [Overview](/help/overview.md)
 + Introduction to Journey Optimizer {#introduction-to-journey-optimizer}
 + Get started {#get-started}
-  + Access control {#access-set-up}
-    + [Access management](/help/set-up-access/access-management.md)
+  + [Access management](/help/set-up-access/access-management.md)
   + Data source configuration {#data-source-configuration}
   + Channel configuration {#channel-configuration}
   + Resource set up {#resource-set-up}
