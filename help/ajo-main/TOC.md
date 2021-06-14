@@ -10,14 +10,14 @@ user-guide-description: Here are Journey Optimizer Learn Tutorials.
 + Introduction to Journey Optimizer {#introduction-to-journey-optimizer}
 + Get started {#get-started}
   + Access control {#access-set-up}
-    + [Import and author email content with the message editor][Access management](/help/set-up-access/access-management.md)
+    + [Access management](/help/set-up-access/access-management.md)
   + Data source configuration {#data-source-configuration}
   + Channel configuration {#channel-configuration}
   + Resource set up {#resource-set-up}
   + Decision management configuration {#decision-management-configuration}
   + Journeys configuration{#journey-configuration}
 + Create messages {#create-messages}
-  + (/help/create-messages/import-and-author-email-content.md)
+  + [Import and author email content with the message editor](/help/create-messages/import-and-author-email-content.md)
 + Personalize content {#personalize-content}
   + [Profile and segment membership-based personalization](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
   + [Add offers as personalization](/help/personalize-content/add-offer-decisioning-to-messages.md)
