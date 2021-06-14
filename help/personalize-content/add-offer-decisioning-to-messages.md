@@ -20,3 +20,4 @@ Learn how to add an offer decisioning component to messages in Journey Optimizer
 
 * [Offer Decisioning Videos and Tutorials](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html)
 * [About Decision Management (documentation)](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/starting-offer-decisioning.html)
+* [Add personalized offers (documentation)](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/deliver-personalized-offers.html)

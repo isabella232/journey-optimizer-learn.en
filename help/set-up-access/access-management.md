@@ -2,7 +2,7 @@
 title: Access management
 description: Understand the Adobe Journey Optimizer's access control system and the eight custom profiles. Learn how to manage product profiles and permissions and how to add and manage users.
 kt: 7677
-thumbnail: 333998 
+thumbnail: 333998.jpg 
 feature: Access Management
 doc-type: feature video
 team: PM
