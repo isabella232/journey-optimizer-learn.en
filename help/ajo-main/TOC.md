@@ -16,6 +16,7 @@ user-guide-description: Here are Journey Optimizer Learn Tutorials.
   + Decision management configuration {#decision-management-configuration}
   + Journeys configuration{#journey-configuration}
 + Create messages {#create-messages}
+  + [Create email content with the message editor](/help/create-messages/create-email-content-with-the-message-editor.md)
   + [Import and author HTML email content](/help/create-messages/import-and-author-html-email-content.md)
 + Personalize content {#personalize-content}
   + [Profile and segment membership-based personalization](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
