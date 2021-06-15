@@ -18,4 +18,6 @@ Learn how to import existing HTML content, tweak the design, add mirror page and
 
 ## Additional resources
 
-[Import or code your email content (documentation)](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/existing-content.html)
+* [Import or code your email content (documentation)](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/existing-content.html)
+* [Get started with email design in Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/design-emails.html)
+* [Use email designer content components](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/design-emails.html)
