@@ -13,5 +13,36 @@ Journey Optimizer helps companies deliver connected, contextual, and personalize
 This user guide contains videos and tutorials on features and capabilities of Adobe Journey Optimizer.
 
 ## Staff Picks
+<table>
+<tr>
+  <td>
+    <a href="./introduction/journey-optimizer-overview-part-1.md">
+      <img alt="Journey Optimizer Overview Part 1 - Deliver omni-channel journeys (video)" src="./assets/334174.jpg"/>
+    </a>
+    <div>
+      <a href="./introduction/journey-optimizer-overview-part-1.md">
+    <strong>Journey Optimizer Overview Part 1 </strong>
+    </a>
+    </div>
+    <p>
+    <em>This video shows how brands can use Adobe Journey Optimization to deliver personalized omni-channel journeys to their consumers.</em>
+    <p>
+  </td>
+    <td>
+    <a href="./introduction/journey-optimizer-overview-part-2.md">
+      <img alt="Journey Optimizer Overview Part 2 - Deliver omni-channel journeys (video)" src="./assets/334175.jpg"/>
+    </a>
+    <div>
+      <a href="./introduction/journey-optimizer-overview-part-2.md">
+    <strong>Journey Optimizer Overview Part 2 </strong>
+    </a>
+    </div>
+    <p>
+    <em>This video shows how brands can use Adobe Journey Optimization's offer decisioning, real-time segment qualification, and business event management to take their consumer journeys to new heights.</em>
+    <p>
+  </td>
+</table>
 
-Coming up
+
+
+
