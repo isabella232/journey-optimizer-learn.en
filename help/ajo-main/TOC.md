@@ -8,6 +8,7 @@ user-guide-description: Here are Journey Optimizer Learn Tutorials.
 
 + [Overview](/help/overview.md)
 + Introduction to Journey Optimizer {#introduction-to-journey-optimizer}
+  + [Introduction to Journey Optimizer](/help/introduction/introduction.md)
   + [Journey Optimizer Overview Part 1](/help/introduction/journey-optimizer-overview-part-1.md)
   + [Journey Optimizer Overview Part 2](/help/introduction/journey-optimizer-overview-part-2.md)
 + Get started {#get-started}
