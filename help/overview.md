@@ -12,7 +12,6 @@ Journey Optimizer helps companies deliver connected, contextual, and personalize
 
 This user guide contains videos and tutorials on features and capabilities of Adobe Journey Optimizer.
 
-## Staff Picks
 <table>
 <tr>
   <td>
