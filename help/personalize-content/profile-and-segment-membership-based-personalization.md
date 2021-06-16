@@ -8,6 +8,7 @@ doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
+hidefromtoc: yes
 ---
 
 # Work with profile and segment membership for personalization

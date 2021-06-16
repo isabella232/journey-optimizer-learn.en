@@ -8,6 +8,7 @@ doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
+hidefromtoc: yes
 ---
 
 # Use contextual event information for personalization

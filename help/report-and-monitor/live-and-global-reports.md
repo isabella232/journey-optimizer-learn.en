@@ -8,6 +8,7 @@ doc-type: feature video
 team: PM
 role: Administrator
 level: Beginner
+hidefromtoc: yes
 ---
 
 # Live and global reports
