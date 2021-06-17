@@ -1,5 +1,5 @@
 ---
-title: Overview of the key capabilities and the user interface
+title: Key capabilities and the user interface
 description: Understand the Journey Optimizer's key capabilities and personas. Learn how to navigate the user interface.
 kt: 7706
 thumbnail: 334201.jpg
@@ -10,7 +10,7 @@ role: Business Practitioner, Developer
 level: Beginner
 ---
 
-# Overview of the key capabilities and the user interface
+# Key capabilities and the user interface
 
 Understand the Journey Optimizer's key capabilities and personas. Learn how to navigate the user interface.
 
