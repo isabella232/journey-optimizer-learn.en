@@ -30,5 +30,6 @@ user-guide-description: Here are Journey Optimizer Learn Tutorials.
 + Create journeys {#create-journeys}
   + [Use case - Transactional Journey](/help/create-journeys/use-case-transactional-journey.md)
   + [Use case - Read segment](/help/create-journeys/use-case-read-segment.md)
+  + [Use Case - Segment qualification](/help/create-journeys/use-case-read-segment-qualification.md)
 + Report and monitor {#report-and-monitor}
   + [Live and global reports](/help/report-and-monitor/live-and-global-reports.md)
