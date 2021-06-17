@@ -28,10 +28,10 @@ user-guide-description: Here are Journey Optimizer Learn Tutorials.
   + [Add offers as personalization](/help/personalize-content/add-offer-decisioning-to-messages.md)
   + [Use contextual event information for personalization](/help/personalize-content/use-contextual-event-information-for-personalization.md)
 + Create journeys {#create-journeys}
-  + [Use case - Transactional Journey](/help/create-journeys/use-case-transactional-journey.md)
-  + [Use case - Read segment](/help/create-journeys/use-case-read-segment.md)
-  + [Use case - Business event](/help/create-journeys/use-case-business-event.md)
-  + [Use Case - Segment qualification](/help/create-journeys/use-case-read-segment-qualification.md)
+  + [Use case - transactional journey](/help/create-journeys/use-case-transactional-journey.md)
+  + [Use case - read segment](/help/create-journeys/use-case-read-segment.md)
+  + [Use case - business event](/help/create-journeys/use-case-business-event.md)
+  + [Use case - segment qualification](/help/create-journeys/use-case-read-segment-qualification.md)
   + [Test a journey](/help/create-journeys/test-a-journey.md)
   + [Publish a journey](/help/create-journeys/publish-a-journey.md)
 + Report and monitor {#report-and-monitor}
