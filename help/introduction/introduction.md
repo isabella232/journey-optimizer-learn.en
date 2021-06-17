@@ -12,6 +12,6 @@ level: Beginner
 
 # Introduction to Adobe Journey Optimizer
 
-Understand what Adobe Journey Optimizer is, which business challenges this solution solves and what the key use cases are.
+Understand what Adobe Journey Optimizer is, which business challenges this solution solves, and what the key use cases are.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333745?quality=12)
