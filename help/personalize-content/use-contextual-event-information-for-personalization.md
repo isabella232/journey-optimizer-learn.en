@@ -8,7 +8,6 @@ doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
-hidefromtoc: yes
 ---
 
 # Use contextual event information for personalization
@@ -17,3 +16,8 @@ Learn how to use contextual event information from a journey to personalize a me
 
 >[!VIDEO](https://video.tv.adobe.com/v/334165?quality=12)
 
+## Additional resources
+
+* [Get started with personalization in Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalize.html)
+* [Learn how to create an event in a journey](https://experienceleague.adobe.com/docs/journey-optimizer/using/get-started/configure-journeys/events-journeys/unitary-events/about-creating.html)
+* [Use case: Leverage multiple types of personalization in a message](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalization-use-case.html)

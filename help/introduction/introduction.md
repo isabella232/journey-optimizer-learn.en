@@ -4,8 +4,8 @@ description: Understand what Adobe Journey Optimizer is, which business challeng
 kt: 7517
 thumbnail: 333745.jpg
 feature: Overview
-doc-type: value video
-team: Evangelism
+doc-type: feature video
+team: PM
 role: Business Practitioner
 level: Beginner
 ---

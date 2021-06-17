@@ -8,7 +8,6 @@ doc-type: feature video
 team: PM
 role: Administrator
 level: Beginner
-hidefromtoc: yes
 ---
 
 # Access management

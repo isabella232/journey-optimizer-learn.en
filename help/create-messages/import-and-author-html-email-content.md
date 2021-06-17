@@ -8,7 +8,6 @@ doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
-hidefromtoc: yes
 ---
 
 # Import and author HTML email content with the message editor
