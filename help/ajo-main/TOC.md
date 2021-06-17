@@ -11,6 +11,7 @@ user-guide-description: Here are Journey Optimizer Learn Tutorials.
   + [Introduction to Journey Optimizer](/help/introduction/introduction.md)
   + [Journey Optimizer Overview Part 1](/help/introduction/journey-optimizer-overview-part-1.md)
   + [Journey Optimizer Overview Part 2](/help/introduction/journey-optimizer-overview-part-2.md)
+  + [Key capabilities and the user interface](/help/introduction/key-capabilities-and-user-interface.md)
   + [Architecture](/help/introduction/architecture.md)
 + Get started {#get-started}
   + [Access management](/help/set-up-access/access-management.md)
