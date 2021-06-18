@@ -23,6 +23,7 @@ user-guide-description: Here are Journey Optimizer Learn Tutorials.
 + Create messages {#create-messages}
   + [Create email content with the message editor](/help/create-messages/create-email-content-with-the-message-editor.md)
   + [Import and author HTML email content](/help/create-messages/import-and-author-html-email-content.md)
+  + [Preview, proof, and publish](/help/create-messages/preview-proof-and-publish.md)
 + Personalize content {#personalize-content}
   + [Profile and segment membership-based personalization](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
   + [Add offers as personalization](/help/personalize-content/add-offer-decisioning-to-messages.md)
