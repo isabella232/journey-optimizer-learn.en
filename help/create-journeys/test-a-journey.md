@@ -8,8 +8,8 @@ doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
+exl-id: b0725be6-2a3d-46cf-b78a-d53b6a88d112
 ---
-
 # Test a journey using events and test profiles
 
 Understand what a test mode is. Learn how to create a test profile, execute test mode, and how to read test mode logs.

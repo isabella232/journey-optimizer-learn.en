@@ -8,8 +8,8 @@ doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
+exl-id: 38be6d24-2760-4fb4-b5d4-c9be53419e6e
 ---
-
 # Use Case - Business event
 
 Understand the applicable use cases for business events. Learn how to build a journey using a business event and which best practices to apply.

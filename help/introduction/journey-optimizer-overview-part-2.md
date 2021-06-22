@@ -8,8 +8,8 @@ doc-type: value video
 team: Evangelism
 role: Business Practitioner
 level: Beginner
+exl-id: 93266ba3-d90e-4d6e-8c43-4a421650e25f
 ---
-
 # Journey Optimizer Overview Part 2 - Advanced functionality
 
 This video shows how brands can use Adobe Journey Optimization's offer decisioning, real time segment qualification, and business event management to take their consumer journeys to new heights.

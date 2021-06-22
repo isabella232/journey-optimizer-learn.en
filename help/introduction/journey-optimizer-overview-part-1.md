@@ -8,8 +8,8 @@ doc-type: value video
 team: Evangelism
 role: Business Practitioner
 level: Beginner
+exl-id: 6977cc53-9dad-4dee-9cbf-90f7b11ea9c8
 ---
-
 # Journey Optimizer Part 1 - Deliver omni-channel journeys
 
 This video shows how brands can use Adobe Journey Optimization to deliver personalized omni-channel journeys to their consumers.

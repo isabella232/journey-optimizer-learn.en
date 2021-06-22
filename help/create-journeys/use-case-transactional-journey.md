@@ -8,8 +8,8 @@ doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
+exl-id: f42f9bba-a309-44ae-943c-d9142046dcd3
 ---
-
 # Use Case - Transactional Journey 
 
 Understand the applicable use cases for transactional journeys. Learn how to build transactional journeys and which best practices to apply.

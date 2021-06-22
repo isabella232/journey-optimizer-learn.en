@@ -1,15 +1,15 @@
 ---
 title: Live and global reports
-description: Learn the difference between live and global reports, how to access and analyze the Journey and the Message specific reports, and how to modify the report dashboards.  
+description: Learn the difference between live and global reports, how to access and analyze the Journey and the Message specific reports, and how to modify the report dashboards.
 kt: 7690
-thumbnail: 334108.jpg 
+thumbnail: 334108.jpg
 feature: Reporting
 doc-type: feature video
 team: PM
 role: Administrator
 level: Beginner
+exl-id: 9e94b335-7e5d-4753-aead-d18f42776fdd
 ---
-
 # Live and global reports
 
 Learn the difference between live and global reports, how to access and analyze the Journey and the Message specific reports, and how to modify the report dashboards.  
@@ -20,4 +20,3 @@ Learn the difference between live and global reports, how to access and analyze 
 
 * [Get started with Live Reports](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/live-report/live-report.html)
 * [Get started with Global Reports](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/global-report/global-report.html)
-  

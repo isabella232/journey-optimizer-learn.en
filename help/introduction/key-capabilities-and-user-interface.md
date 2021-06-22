@@ -8,8 +8,8 @@ doc-type: Feature Video
 team: PM
 role: Business Practitioner, Developer
 level: Beginner
+exl-id: e1d846ed-34ed-44bb-ad69-cedbaaebe706
 ---
-
 # Key capabilities and the user interface
 
 Understand the Journey Optimizer's key capabilities and personas. Learn how to navigate the user interface.

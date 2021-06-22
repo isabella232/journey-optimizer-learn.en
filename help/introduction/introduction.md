@@ -8,8 +8,8 @@ doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
+exl-id: e48a627a-bd36-4084-a791-78f7a78579c6
 ---
-
 # Introduction to Adobe Journey Optimizer
 
 Understand what Adobe Journey Optimizer is, which business challenges this solution solves, and what the key use cases are.

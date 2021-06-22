@@ -8,8 +8,8 @@ doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
+exl-id: 01c15f13-a804-45c3-94b0-ecd46586cc4f
 ---
-
 # Preview, proof, and publish
 
 Learn how to test email rendering across inboxes, how to preview your personalized emails against test profiles, send proofs, and publish your email.

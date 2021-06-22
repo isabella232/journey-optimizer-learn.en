@@ -1,5 +1,5 @@
 ---
-title: Adobe Journey Optimizer Architecture 
+title: Adobe Journey Optimizer Architecture
 description: Understand the basic architecture of Adobe Journey Optimizer, the points of integration, and the relationship of Journey Optimizer with other Adobe applications.
 kt: 7607
 thumbnail: 334205.jpg
@@ -8,8 +8,8 @@ doc-type: feature video
 team: PM
 role: Administrator, Developer
 level: Beginner
+exl-id: 33b8ee09-4cd8-475c-bf8e-a7934eff19a1
 ---
-
 # Adobe Journey Optimizer Architecture 
 
 Understand the basic architecture of Adobe Journey Optimizer, the points of integration, and the relationship of Journey Optimizer with other Adobe applications.
