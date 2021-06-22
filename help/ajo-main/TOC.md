@@ -28,6 +28,7 @@ user-guide-description: Here are Journey Optimizer Learn Tutorials.
   + [Profile and segment membership-based personalization](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
   + [Add offers as personalization](/help/personalize-content/add-offer-decisioning-to-messages.md)
   + [Use contextual event information for personalization](/help/personalize-content/use-contextual-event-information-for-personalization.md)
+  + [Use helper functions for personalization](/help/personalize-content/use-helper-functions-for-personalization.md)
 + Create journeys {#create-journeys}
   + [Use case - transactional journey](/help/create-journeys/use-case-transactional-journey.md)
   + [Use case - read segment](/help/create-journeys/use-case-read-segment.md)
