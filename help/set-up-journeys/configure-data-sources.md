@@ -12,6 +12,6 @@ level: Beginner
 
 # Configure data sources
 
-Understand what a data source is and learn how to configure a Experience Platform and external data sources.
+Understand what a data source is and learn how to configure an Experience Platform and external data sources.
 
->[!VIDEO](https://video.tv.adobe.com/v/3334256?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/334256?quality=12)
