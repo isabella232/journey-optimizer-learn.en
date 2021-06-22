@@ -23,4 +23,4 @@ Learn how to add an offer decisioning component to messages in Journey Optimizer
 * Documentation:
   * [Get started with Decision management in Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/starting-offer-decisioning.html)
   * [Add personalized offers in an email](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/deliver-personalized-offers.html)
-  * [Use case: Configure personalized offers to use them in an email](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/offers-e2e.html)
+  * [Use case: Configure personalized offers to use them in an email](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/offers-e2e.html)

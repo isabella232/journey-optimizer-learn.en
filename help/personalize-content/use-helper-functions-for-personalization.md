@@ -19,4 +19,5 @@ Learn how to transform personalization values using personalization helper funct
 ## Additional resources
 
 * [Get started with personalization in Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalize.html)
+* [Templating language and helper functions](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/functions/functions.html)
 * [Use case: Leverage multiple types of personalization in a message](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalization-use-case.html)
