@@ -22,4 +22,4 @@ Learn how to create segment rules and understand how Journey Optimizer uses rule
 * [Use case: build a segment in Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/segment/creating-a-segment.html)
 * [Use a segment in a journey](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/read-segment.html)
 * [Use Segment qualification events in a journey](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/segment-qualification-events.html)
-* [Use a segment in a condition when building a journey] (https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/condition-activity.html?lang=en#using-a-segment)
+* [Use a segment in a condition when building a journey](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/condition-activity.html?lang=en#using-a-segment)
