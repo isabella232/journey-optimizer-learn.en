@@ -1,6 +1,6 @@
 ---
 title: Configure data sources
-description: Understand the different states of a journey and the impact of publishing.
+description: Understand what a data source is and learn how to configure an Experience Platform and external data sources.
 kt: 7538
 thumbnail: 334256.jpg
 feature: Journeys, Data Sources
