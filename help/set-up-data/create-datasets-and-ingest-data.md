@@ -10,7 +10,7 @@ role: Administrator, Developer
 level: Beginner
 ---
 
-# Configure data sources
+# Create datasets and ingest data
 
 Learn how to create a dataset, map it to a schema, add data to it, and confirm that the data has been ingested.
 

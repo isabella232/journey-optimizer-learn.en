@@ -18,6 +18,7 @@ user-guide-description: Here are Journey Optimizer Learn Tutorials.
   + Data configuration {#data-configuration}
     + [Create datasets and ingest data](/help/set-up-data/create-datasets-and-ingest-data.md)
   + Channel configuration {#channel-configuration}
+    + [Set up email channel](/help/set-up-email-channel/set-up-email-channel.md)
   + Decision management configuration {#decision-management-configuration}
   + Journeys configuration{#journey-configuration}
     + [Configure data sources](/help/set-up-journeys/configure-data-sources.md)
