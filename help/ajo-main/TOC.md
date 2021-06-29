@@ -15,6 +15,7 @@ user-guide-description: Here are Journey Optimizer Learn Tutorials.
   + [Architecture](/help/introduction/architecture.md)
 + Get started {#get-started}
   + [Access management](/help/set-up-access/access-management.md)
+  + [Create and manage sandboxes](/help/set-up-access/create-and-manage-sandboxes.md)
   + Data configuration {#data-configuration}
     + [Create datasets and ingest data](/help/set-up-data/create-datasets-and-ingest-data.md)
   + Channel configuration {#channel-configuration}
