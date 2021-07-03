@@ -1,6 +1,6 @@
 ---
 title: Create a schema
-description: Learn how to create a schema, add field groups, create and configure custom field groups.
+description: Learn how to create a schema, add field groups, create, and configure custom field groups.
 kt: 7565
 thumbnail: 334461.jpg
 feature: Schema
@@ -12,7 +12,7 @@ level: Beginner
 
 # Create a schema
 
-Learn how to create a schema, add field groups, create and configure custom field groups.
+Learn how to create a schema, add field groups, create, and configure custom field groups.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334461?quality=12)
 
