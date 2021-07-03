@@ -17,6 +17,7 @@ user-guide-description: Here are Journey Optimizer Learn Tutorials.
   + [Access management](/help/set-up-access/access-management.md)
   + [Create and manage sandboxes](/help/set-up-access/create-and-manage-sandboxes.md)
   + Data configuration {#data-configuration}
+    + [Create a schema](/help/set-up-data/create-schema.md)
     + [Create datasets and ingest data](/help/set-up-data/create-datasets-and-ingest-data.md)
   + Channel configuration {#channel-configuration}
     + [Set up email channel](/help/set-up-email-channel/set-up-email-channel.md)
