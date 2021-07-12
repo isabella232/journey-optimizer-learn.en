@@ -6,7 +6,7 @@ thumbnail: 334165.jpg
 feature: Personalization
 doc-type: feature video
 team: PM
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 45cb2057-fc8d-4c66-9da8-0ce7ab3a4033
 ---

@@ -6,7 +6,7 @@ thumbnail: 334281.jpg
 feature: Rules, Segments, Audiences
 doc-type: feature video
 team: PM
-role: Developer, Business Practitioner
+role: Developer, User
 level: Beginner
 ---
 

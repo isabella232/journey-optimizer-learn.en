@@ -6,7 +6,7 @@ thumbnail: 334239.jpg
 feature: Email Design, Inbox Rendering, Email Rendering
 doc-type: feature video
 team: PM
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 01c15f13-a804-45c3-94b0-ecd46586cc4f
 ---

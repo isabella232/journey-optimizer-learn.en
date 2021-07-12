@@ -6,7 +6,7 @@ thumbnail: 334206.jpg
 feature: Journeys
 doc-type: feature video
 team: PM
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 7116a20e-f46a-4676-8b16-21699723828a
 ---

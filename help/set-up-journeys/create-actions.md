@@ -6,7 +6,7 @@ thumbnail: 334257.jpg
 feature: Journeys, Data Sources
 doc-type: feature video
 team: PM
-role: Administrator, Developer
+role: Admin, Developer
 level: Beginner
 ---
 

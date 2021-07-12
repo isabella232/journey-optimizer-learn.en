@@ -6,7 +6,7 @@ thumbnail: 334108.jpg
 feature: Reporting
 doc-type: feature video
 team: PM
-role: Administrator
+role: Admin
 level: Beginner
 exl-id: 9e94b335-7e5d-4753-aead-d18f42776fdd
 ---

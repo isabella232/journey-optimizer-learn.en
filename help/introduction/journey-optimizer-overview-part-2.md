@@ -6,7 +6,7 @@ thumbnail: 334175.jpg
 feature: Overview
 doc-type: value video
 team: Evangelism
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 93266ba3-d90e-4d6e-8c43-4a421650e25f
 ---

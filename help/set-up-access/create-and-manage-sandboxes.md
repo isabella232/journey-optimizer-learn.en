@@ -6,7 +6,7 @@ thumbnail: 334355.jpg
 feature: Access Management
 doc-type: feature video
 team: PM
-role: Administrator
+role: Admin
 level: Beginner
 ---
 # Access management

@@ -6,7 +6,7 @@ thumbnail: 334102.jpg
 feature: Email Design
 doc-type: feature video
 team: PM
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 6b8b5c30-5b12-486e-8787-352670e0b164
 ---

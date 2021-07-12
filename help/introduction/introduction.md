@@ -6,7 +6,7 @@ thumbnail: 333745.jpg
 feature: Overview
 doc-type: feature video
 team: PM
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: e48a627a-bd36-4084-a791-78f7a78579c6
 ---

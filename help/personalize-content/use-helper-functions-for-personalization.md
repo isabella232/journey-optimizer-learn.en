@@ -6,7 +6,7 @@ thumbnail: 334244.jpg
 feature: Personalization
 doc-type: feature video
 team: PM
-role: Business Practitioner
+role: User
 level: Beginner
 ---
 

@@ -6,7 +6,7 @@ thumbnail: 333998.jpg
 feature: Access Management
 doc-type: feature video
 team: PM
-role: Administrator
+role: Admin
 level: Beginner
 exl-id: c1b3f804-7c41-4856-ba87-4d8e22abc5a9
 ---
