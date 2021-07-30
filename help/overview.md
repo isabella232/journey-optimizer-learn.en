@@ -12,6 +12,12 @@ Journey Optimizer helps companies deliver connected, contextual, and personalize
 
 This user guide contains videos and tutorials on features and capabilities of Adobe Journey Optimizer.
 
+## What's New
+
+* **[Use case - burst message](/help/create-journeys/use-case-read-burst-message.md)**
+
+  *Understand the applicable use cases for burst messaging. Learn how to configure a journey for burst messages and which best practices to apply.*
+
 ## Staff Picks
 
 <table>
