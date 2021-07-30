@@ -14,6 +14,10 @@ This user guide contains videos and tutorials on features and capabilities of Ad
 
 ## What's New
 
+* **[Introduction to building a journey](/help/create-journeys/introduction-to-building-a-journey.md)**
+  
+  *Understand the basics of building a journey in the journey canvas.*
+
 * **[Use case - burst message](/help/create-journeys/use-case-read-burst-message.md)**
 
   *Understand the applicable use cases for burst messaging. Learn how to configure a journey for burst messages and which best practices to apply.*

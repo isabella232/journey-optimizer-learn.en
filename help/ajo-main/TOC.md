@@ -36,6 +36,7 @@ user-guide-description: Here are Journey Optimizer Learn Tutorials.
   + [Use contextual event information for personalization](/help/personalize-content/use-contextual-event-information-for-personalization.md)
   + [Use helper functions for personalization](/help/personalize-content/use-helper-functions-for-personalization.md)
 + Create journeys {#create-journeys}
+  + [Introduction to building a journey](/help/create-journeys/introduction-to-building-a-journey.md)
   + [Use case - transactional journey](/help/create-journeys/use-case-transactional-journey.md)
   + [Use case - read segment](/help/create-journeys/use-case-read-segment.md)
   + [Use case - business event](/help/create-journeys/use-case-business-event.md)
