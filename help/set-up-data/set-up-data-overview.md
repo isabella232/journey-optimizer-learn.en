@@ -21,4 +21,4 @@ Learn about real-time customer profile data and which steps are required to set 
 * [Create a schema](/help/set-up-data/create-schema.md)
 * [Map identities](/help/set-up-data/map-identities.md)
 * [Create datasets and ingest data](/help/set-up-data/create-datasets-and-ingest-data.md)
-* [Configure sources](/help/set-up-data/configure-sources.md)
+* [Configure sources](/help/set-up-data/configure-data-sources.md)
