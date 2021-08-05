@@ -14,6 +14,18 @@ This user guide contains videos and tutorials on features and capabilities of Ad
 
 ## What's New
 
+* **[Set up data - Overview](/help/set-up-data/set-up-data-overview.md)**
+  
+  *Learn about real-time customer profile data and which steps are required to set up customer profile data for Journey Optimizer.*
+  
+* **[Map identities](/help/set-up-data/map-identities.md)**
+  
+  *Learn how and when to label a schema field as an identity, how to create a namespace, when to make an identity primary, and how to ingest and verify identity data.*
+
+* **[Configure data sources](/help/set-up-data/configure-data-sources.md)**
+  
+  *Learn about source connectors and how to configure them in Journey Optimizer*
+
 * **[Introduction to building a journey](/help/create-journeys/introduction-to-building-a-journey.md)**
   
   *Understand the basics of building a journey in the journey canvas.*
