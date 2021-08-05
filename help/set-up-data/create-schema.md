@@ -3,7 +3,7 @@ title: Create a schema
 description: Learn how to create a schema, add field groups, create, and configure custom field groups.
 kt: 7565
 thumbnail: 334461.jpg
-feature: Schema
+feature: Schemas
 doc-type: feature video
 team: PM
 role: Developer
