@@ -1,7 +1,6 @@
 ---
 title: Configure data sources
 description: Learn about source connectors and how to configure them in Journey Optimizer.
-
 kt: 7561
 thumbnail: 335919.jpg
 feature: Data Sources
