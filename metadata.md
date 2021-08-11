@@ -1,7 +1,7 @@
 ---
 cloud: Experience Cloud
 solution: Journey Optimizer
-product: adobe journey optimizer
+feature-set: Journey Optimizer
 type: Tutorial
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/journey-optimizer-learn.en
