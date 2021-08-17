@@ -3,7 +3,7 @@ title: Set up data - Overview
 description: Learn about real-time customer profile data and which steps are required to set up customer profile data for Journey Optimizer.
 kt: 7855
 thumbnail: 335878.jpg
-feature: Schema
+feature: Schemas
 doc-type: feature video
 team: PM
 role: Developer
