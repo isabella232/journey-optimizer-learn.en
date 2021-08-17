@@ -9,7 +9,7 @@ team: PM
 role: Admin
 level: Beginner
 ---
-# Access management
+# Create and manage sandboxes
 
 Understand what sandboxes are and how to distinguish between development and production sandboxes. Learn how to create, reset, and delete sandboxes.
 
