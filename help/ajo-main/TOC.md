@@ -27,6 +27,7 @@ user-guide-description: Here are Journey Optimizer Learn Tutorials.
   + Decision management configuration {#decision-management-configuration}
   + Journeys configuration{#journey-configuration}
     + [Configure data sources](/help/set-up-journeys/configure-data-sources.md)
+    + [Create events](/help/set-up-journeys/create-events.md)
     + [Create actions](/help/set-up-journeys/create-actions.md)
 + [Create segments](/help/set-up-resources/create-segments.md)
 + Create messages {#create-messages}
