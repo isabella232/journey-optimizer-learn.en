@@ -14,6 +14,10 @@ This user guide contains videos and tutorials on features and capabilities of Ad
 
 ## What's New
 
+* ** [Create events](/help/set-up-journeys/create-events.md)**
+  
+  *Learn how to configure an event, specify the streaming endpoint and the payload for an event.*
+
 * **[Set up data - Overview](/help/set-up-data/set-up-data-overview.md)**
   
   *Learn about real-time customer profile data and which steps are required to set up customer profile data for Journey Optimizer.*
