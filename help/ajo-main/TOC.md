@@ -13,22 +13,22 @@ user-guide-description: Here are Journey Optimizer Learn Tutorials.
   + [Journey Optimizer Overview Part 2](/help/introduction/journey-optimizer-overview-part-2.md)
   + [Key capabilities and the user interface](/help/introduction/key-capabilities-and-user-interface.md)
   + [Architecture](/help/introduction/architecture.md)
-+ Get started {#get-started}
++ Access Control {#access-control}
   + [Access management](/help/set-up-access/access-management.md)
   + [Create and manage sandboxes](/help/set-up-access/create-and-manage-sandboxes.md)
-  + Data configuration {#data-configuration}
-    + [Overview](/help/set-up-data/set-up-data-overview.md)
-    + [Create a schema](/help/set-up-data/create-schema.md)
-    + [Map identities](/help/set-up-data/map-identities.md)
-    + [Create datasets and ingest data](/help/set-up-data/create-datasets-and-ingest-data.md)
-    + [Configure data sources](/help/set-up-data/configure-data-sources.md)
-  + Channel configuration {#channel-configuration}
-    + [Set up email channel](/help/set-up-email-channel/set-up-email-channel.md)
-  + Decision management configuration {#decision-management-configuration}
-  + Journeys configuration{#journey-configuration}
-    + [Configure data sources](/help/set-up-journeys/configure-data-sources.md)
-    + [Create events](/help/set-up-journeys/create-events.md)
-    + [Create actions](/help/set-up-journeys/create-actions.md)
++ Data configuration {#data-configuration}
+  + [Overview](/help/set-up-data/set-up-data-overview.md)
+  + [Create a schema](/help/set-up-data/create-schema.md)
+  + [Map identities](/help/set-up-data/map-identities.md)
+  + [Create datasets and ingest data](/help/set-up-data/create-datasets-and-ingest-data.md)
+  + [Configure data sources](/help/set-up-data/configure-data-sources.md)
++ Channel configuration {#channel-configuration}
+  + [Set up email channel](/help/set-up-email-channel/set-up-email-channel.md)
++ Decision management configuration {#decision-management-configuration}
++ Journeys configuration{#journey-configuration}
+  + [Configure data sources](/help/set-up-journeys/configure-data-sources.md)
+  + [Create events](/help/set-up-journeys/create-events.md)
+  + [Create actions](/help/set-up-journeys/create-actions.md)
 + [Create segments](/help/set-up-resources/create-segments.md)
 + Create messages {#create-messages}
   + [Create email content with the message editor](/help/create-messages/create-email-content-with-the-message-editor.md)

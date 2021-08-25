@@ -18,6 +18,6 @@ Understand the applicable use cases for read segment journeys. Learn how to buil
 
 ## Additional resources
 
-* [Build a segment in Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/segment/creating-a-segment.html)
+* [Build segments](https://experienceleague.adobe.com/docs/journey-optimizer/using/segment/segments/creating-a-segment.html)
 * [Use a segment in a journey](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/read-segment.html)
 * [Learn how to design a journey](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/create-journey/using-the-journey-designer.html)

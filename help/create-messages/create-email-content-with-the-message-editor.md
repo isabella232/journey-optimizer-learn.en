@@ -22,4 +22,4 @@ Learn how to create emails from scratch. Understand how to use assets from the A
 * [Design your email content in the UI](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/create-email-content.html)
 * [Use the email designer content components](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/content-components.html)
 * [Use AEM Assets Essentials in Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/assets-essentials.html)
-* [Insert links and configure email tracking](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/message-tracking.html)
+* [Add links and track messages](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/message-tracking.html)
