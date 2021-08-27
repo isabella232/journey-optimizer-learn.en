@@ -18,7 +18,7 @@ This user guide contains videos and tutorials on features and capabilities of Ad
   
   *Learn how to configure an event, specify the streaming endpoint and the payload for an event.*
   
-* **[Configure data sources](/help/set-up-data/configure-data-sources.md)**
+* **[Configure data sources](/help/set-up-data/configure-source-connectors.md)**
   
   *Learn about source connectors and how to configure them in Journey Optimizer*
 

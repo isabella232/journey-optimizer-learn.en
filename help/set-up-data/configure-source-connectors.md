@@ -1,5 +1,5 @@
 ---
-title: Configure data sources
+title: Configure source connectors
 description: Learn about source connectors and how to configure them in Journey Optimizer.
 kt: 7561
 thumbnail: 335919.jpg
@@ -10,7 +10,7 @@ role: Developer
 level: Beginner
 ---
 
-# Configure data sources
+# Configure source connectors
 
 Learn about source connectors and how to configure them in Journey Optimizer.
 
