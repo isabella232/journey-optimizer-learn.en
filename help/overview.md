@@ -22,7 +22,7 @@ This user guide contains videos and tutorials on features and capabilities of Ad
   
   *Learn about source connectors and how to configure them in Journey Optimizer*
 
-* **[Use case - burst message](/help/create-journeys/use-case-read-burst-message.md)**
+* **[Use case - burst message](/help/create-journeys/use-case-burst-message.md)**
 
   *Understand the applicable use cases for burst messaging. Learn how to configure a journey for burst messages and which best practices to apply.*
 
