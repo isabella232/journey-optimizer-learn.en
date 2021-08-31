@@ -1,6 +1,6 @@
 ---
 title: Introduction to Adobe Journey Optimizer
-description: Understand what Adobe Journey Optimizer is, which business challenges this solution solves and what the key use cases are.
+description: Understand what Adobe Journey Optimizer is, which business challenges this application solves and what the key use cases are.
 kt: 7517
 thumbnail: 333745.jpg
 feature: Overview
@@ -12,7 +12,7 @@ exl-id: e48a627a-bd36-4084-a791-78f7a78579c6
 ---
 # Introduction to Adobe Journey Optimizer
 
-Understand what Adobe Journey Optimizer is, which business challenges this solution solves, and what the key use cases are.
+Understand what Adobe Journey Optimizer is, which business challenges this application solves, and what the key use cases are.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333745?quality=12)
 
