@@ -8,8 +8,8 @@ doc-type: feature video
 team: PM
 role: Developer
 level: Beginner
+exl-id: 168550e9-e304-4a1a-96da-8aab9e4af4dd
 ---
-
 # Create a schema
 
 Learn how to create a schema, add field groups, create, and configure custom field groups.

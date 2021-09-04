@@ -8,6 +8,7 @@ doc-type: feature video
 team: PM
 role: User
 level: Beginner
+exl-id: dc510572-96c8-42bd-b213-e8738510bb0c
 ---
 # Introduction to building a journey
 

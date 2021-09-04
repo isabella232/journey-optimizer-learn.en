@@ -8,8 +8,8 @@ doc-type: feature video
 team: PM
 role: Admin, Developer
 level: Beginner
+exl-id: 45206e23-46bf-4aaf-8d45-012ea0e64e92
 ---
-
 # Create actions
 
 Learn what an action is in Journey Optimizer and how to configure a custom action.

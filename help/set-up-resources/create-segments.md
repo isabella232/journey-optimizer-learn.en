@@ -8,8 +8,8 @@ doc-type: feature video
 team: PM
 role: Developer, User
 level: Beginner
+exl-id: a2aa7853-b014-48aa-ab0f-46d57561288e
 ---
-
 # Create segments
 
 Learn how to create segment rules and understand how Journey Optimizer uses rules to generate audiences.

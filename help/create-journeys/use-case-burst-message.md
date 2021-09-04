@@ -8,6 +8,7 @@ doc-type: feature video
 team: PM
 role: User
 level: Beginner
+exl-id: 8e3435cb-e11b-4ff8-8391-e7f080c11217
 ---
 # Use Case - burst message
 

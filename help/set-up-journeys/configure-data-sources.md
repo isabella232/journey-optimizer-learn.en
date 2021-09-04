@@ -8,8 +8,8 @@ doc-type: feature video
 team: PM
 role: Admin, Developer
 level: Beginner
+exl-id: 042d94dc-2906-4745-8375-02ff888165a8
 ---
-
 # Configure data sources
 
 Understand what a data source is and learn how to configure Experience Platform and external data sources.

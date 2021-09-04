@@ -8,11 +8,10 @@ doc-type: feature video
 team: PM
 role: Developer
 level: Beginner
+exl-id: dd557040-248f-4e52-b8d7-67b684c6e18b
 ---
-
 # Configure source connectors
 
 Learn about source connectors and how to configure them in Journey Optimizer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335919?quality=12)
-

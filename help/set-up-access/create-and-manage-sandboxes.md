@@ -8,6 +8,7 @@ doc-type: feature video
 team: PM
 role: Admin
 level: Beginner
+exl-id: b1ad3aa7-2b58-4a9f-8c5c-085126586c11
 ---
 # Create and manage sandboxes
 
