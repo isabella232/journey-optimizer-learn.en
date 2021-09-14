@@ -10,7 +10,7 @@ role: Developer
 level: Beginner
 exl-id: e2e9c2be-5c60-4f6f-ae62-8e07f008318d
 ---
-# Set up data - Overview
+# Overview
 
 Learn about real-time customer profile data and which steps are required to set up customer profile data for Journey Optimizer.
 
