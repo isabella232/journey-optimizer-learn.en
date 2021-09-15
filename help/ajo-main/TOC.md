@@ -25,6 +25,7 @@ user-guide-description: Here are Journey Optimizer Learn Tutorials.
 + Channel configuration {#channel-configuration}
   + [Set up email channel](/help/set-up-email-channel/set-up-email-channel.md)
 + Decision management configuration {#decision-management-configuration}
+  + [Offer decisioning](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html?lang=en)
 + Journeys configuration{#journey-configuration}
   + [Configure data sources](/help/set-up-journeys/configure-data-sources.md)
   + [Create events](/help/set-up-journeys/create-events.md)
