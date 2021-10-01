@@ -25,7 +25,16 @@ user-guide-description: Here are Journey Optimizer Learn Tutorials.
 + Channel configuration {#channel-configuration}
   + [Set up email channel](/help/set-up-email-channel/set-up-email-channel.md)
 + Decision management configuration {#decision-management-configuration}
-  + [Offer decisioning](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html?lang=en)
+  + [Introduction to [!DNL Offer Decisioning]](/help/set-up-decision-management/introduction-to-offer-decisioning.md)
+  + [Demo of [!DNL Offer Decisioning]](/help/set-up-decision-management/demo-of-offer-decisioning.md)
+  + [Create placements](/help/set-up-decision-management/create-placements.md)
+  + [Create rules](/help/set-up-decision-management/create-rules.md)
+  + [Create tags](/help/set-up-decision-management/create-tags.md)
+  + [Create personalized offers](/help/set-up-decision-management/create-personalized-offers.md)
+  + [Create fallback offers](/help/set-up-decision-management/create-fallback-offers.md)
+  + [Create collections](/help/set-up-decision-management/create-collections.md)
+  + [Create offer activities](/help/set-up-decision-management/create-offer-activities.md)
+  + [Deliver offers with the Decisions API](/help/set-up-decision-management/deliver-offers-with-the-decisions-api.md)
 + Journeys configuration{#journey-configuration}
   + [Configure data sources](/help/set-up-journeys/configure-data-sources.md)
   + [Create events](/help/set-up-journeys/create-events.md)
