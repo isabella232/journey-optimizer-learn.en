@@ -1,6 +1,6 @@
 ---
 title: Create tags
-description: This video shows how to create tags in Offer Decisioning. Tags are optional building block components of offers.
+description: Learn how to create tags in Offer Decisioning. Tags are optional building block components of offers.
 feature: Offers
 kt: 6753
 thumbnail: 329374.jpg
@@ -8,7 +8,7 @@ exl-id: 155a35bf-8704-4e85-8647-479aecd2a9ce
 ---
 # Create tags
 
-This video shows how to create tags in [!DNL Offer Decisioning]. Tags are optional building block components of offers. They can be used to organize offers and group them in dynamic collections.
+Learn how to create tags in [!DNL Offer Decisioning]. Tags are optional building block components of offers. They can be used to organize offers and group them in dynamic collections.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329374?quality=12&learn=on)
 
@@ -19,5 +19,5 @@ This video shows how to create tags in [!DNL Offer Decisioning]. Tags are option
 
 ## Additional Resources
 
-* [Create tags (documentation)](https://experienceleague.adobe.com/docs/offer-decisioning/using/create-components/creating-tags.html)
-* [Create tags with API (documentation)](https://experienceleague.adobe.com/docs/offer-decisioning/using/api-reference/offers-api/tags/create.html)
+* [Create tags (documentation)](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-tags.html)
+* [Create tags with API (documentation)](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/tags/create.html)
