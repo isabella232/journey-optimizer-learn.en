@@ -1,7 +1,7 @@
 ---
 title: Create rules
 description: This video shows how to create rules in Offer Decisioning. Rules are one of the required building block components of personalized offers.
-feature: Rules
+feature: Offers
 kt: 6738
 thumbnail: 329373.jpg
 exl-id: 1b4cd1cd-f082-46ec-a331-9733d7c87bde

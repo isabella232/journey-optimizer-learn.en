@@ -1,6 +1,7 @@
 ---
 title: Demo of Offer Decisioning
 description: This video shows how brands can use Adobe’s Offer Decisioning service to define and manage their offers, apply real-time customer data, and deliver the right experiences their customers expect.
+feature: Offers
 kt: 6492
 thumbnail: 326841.jpg
 exl-id: 44136443-a3fd-435f-9f6d-23c7696acabe
