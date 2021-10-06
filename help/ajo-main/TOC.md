@@ -56,7 +56,7 @@ user-guide-description: Here are Journey Optimizer Learn Tutorials.
   + [Use case - business event](/help/create-journeys/use-case-business-event.md)
   + [Use case - segment qualification](/help/create-journeys/use-case-read-segment-qualification.md)
   + [Use case - burst message](/help/create-journeys/use-case-burst-message.md)
-  + [Test a journey](/help/create-journeys/test-a-journey.md)
+  + [Create a test profile](/help/create-journeys/test-a-journey.md)
   + [Publish a journey](/help/create-journeys/publish-a-journey.md)
 + Report and monitor {#report-and-monitor}
   + [Live and global reports](/help/report-and-monitor/live-and-global-reports.md)
