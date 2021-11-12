@@ -1,7 +1,7 @@
 ---
 title: Set up a training sandbox - Overview
 description: Learn how to configure a sandbox for training purposes 
-feature: Sandbox
+feature: Data Management, Application Settings
 doc-type: tutorial
 role: Admin
 level: Beginner
