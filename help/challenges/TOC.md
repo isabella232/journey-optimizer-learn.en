@@ -13,4 +13,4 @@ index: yes
 + [Create Journeys](/help/challenges/create-journeys-challenge.md)
 + Check your work {#check-your-work}
   + [Create Journeys](/help/challenges/check-your-work/create-journeys.md)
-+ [Set up a training sandbox](/help/tutorial-set-up-training-sandbox/overview.md)
+  

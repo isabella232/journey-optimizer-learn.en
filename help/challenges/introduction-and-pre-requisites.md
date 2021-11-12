@@ -19,4 +19,4 @@ Challenges are exercises that
 
 ## HANDS-ON ENVIRONMENT
 
-It is recommended to complete the challenge in a dedicated training sandbox. Please refer to the [Set up a training sandbox](/help/tutorial-set-up-training-sandbox/overview.md) tutorial for instructions on how to set-up and configure a sandbox for training purposes.
+It is recommended to complete the challenge in a dedicated training sandbox. Please refer to the [Set up a training sandbox] tutorial for instructions on how to set-up and configure a sandbox for training purposes.
