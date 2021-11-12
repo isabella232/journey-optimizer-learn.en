@@ -2,103 +2,117 @@
 title: Create Journeys - Challenge
 description: Understand the basics of building a journey in the journey canvas.
 kt: 8109
-thumbnail: .jpg
 feature: Journeys
-team: PM
-role: User, Administrator
+role: User
 level: Beginner
 ---
 
 # Create Journeys - Challenge
 
-Luma, a fictional athletic apparel company, is looking to promote its latest apparel and gear collection and to drive sales for existing customers. Your challenge is to create journeys to implement the following use cases: 
+## Story
 
-* Promote the new Luma summer collection: Send a summer collection announcement to a segment of existing customers email 
-* Send an order confirmation email when someone completes an online purchase 
-* Send an email when a loyalty customer moves to a new tier to congratulate and inform them of their new benefits 
-* When a previously out-of-stock item is back in stock, notify customers who had favorited the out-of-stock item with a call to start shopping now that the item is back in stock 
+Luma, a fictional athletic apparel company, is looking to promote its latest apparel and gear collection and to drive sales for existing customers. The Luma marketing team asks you to implement a summer collection marketing campaign and additional use cases that improve the customer experience and increase retention.
 
-## Have everything you need? 
+Your challenge is to create journeys to implement the following use cases:
 
-### System requirements
+1. To promote the new Luma summer collection, send a summer collection announcement to a segment of existing customers email
+2. Send an order confirmation email when someone completes an online purchase
+3. Send an email when a loyalty customer moves to a new tier to congratulate and inform them of their new benefits
+4. When a previously out-of-stock item is back in stock, notify customers who had favorited the out-of-stock item with a call to start shopping now that the item is back in stock
 
-Access to a Journey Optimizer Journey instance. Make sure you have either Journey Manager or Journey Administrator rights. 
+## Skills you might need
 
-### Hands-on environment
- 
-It is recommended to complete the challenge in a development sandbox. This allows you to isolate the excercises from your organization's production environments. To set up a dedicated training sandbox follow the [Set up a training sandbox tutorial](/help/challenges/set-up-training-sandbox.md) 
+To develop the knowledge and skills needed for this challenge, check out the following learning assets:
 
-### Skills you might need 
+* Course [Getting started with Journey Optimizer for Journey Managers and Administrators](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1)
+  
+## Required actions
 
-Complete the course Getting started with Journey Optimizer for Journey Managers and Administrators.
- 
-### REQUIRED ACTIONS 
+If you have not already done so, create a test profile for yourself and add the attributes for yourself that are used in this challenge.
 
-Required system or project files to download? 
+From the Journey Optimizer Home Page, find the Create Test Profiles use case and complete it to create a test profile for yourself. Use *Email* as the identity namespace (use your email address for both the Person ID and Email Address fields).
+  
+NEED HELP?
 
-Any other requirements needed before beginning the Challenge? 
+Refer to the video: [Create a test profile](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/test-a-journey.html?lang=en)
 
-## Let’s jump in! 
+## Let’s jump in
 
-### The Back story
+Create the following journeys in Journey Optimizer:
 
-With Adobe Journey Optimizer, you can manage scheduled omnichannel campaigns and one-to-one moments for millions of customers from a single application — and the entire journey is optimized with intelligent decisioning and insights. 
+### Journey #1 – Summer collection announcement
 
-YOUR CHALLENGE 
+YOUR CHALLENGE
 
-### Setup work 
+To promote the new Luma summer collection, send a summer collection announcement to a segment of existing customers email.
 
-Create a test profile for yourself.
+1. Send “Luma – New Seasonal Collection Announcement” email to the Active Customer segment, holding out 10% of the audience as a control group.
+2. If a recipient opens the *Luma – New Seasonal Collection Announcement* email within two days, send a follow-on email message with more targeted content:
+   * Male customers should receive the *Luma Collection - Men’s* email
+   * Female customers should receive the *Luma Collection- Women’s* email
+   * Other customers should receive the *Luma – 20% off collection* email
+3. After sending the targeted emails above, wait an hour, then listen for the email to be opened.
+4. If the targeted email is not opened within 2 days, send the *Luma – 20% off sales* email as a final retargeting attempt.
+5. Once completed, put the journey in test mode and trigger the journey to send to yourself.
 
->[!NOTE]
-> Watch the [Test a journey](/help/create-journeys/test-a-journey.md) video to learn how to create a test profile.
+SUCCESS CRITERIA
 
+You should receive the following emails:
 
-### Journey #1 – Summer collection announcement 
+* *Luma – New Seasonal Collection Announcement*
+* If you open the first email: The Luma collection email for either men or women if you added the gender, if not the Luma 20% off collection email
+* If you did not open the second email: The *Luma – 20% off sales* email
 
-1. Send “Luma – New Seasonal Collection Announcement” email to the Active Customer segment, holding out 10% of the audience as a control group.
+### Journey #2 – Order confirmation transactional email
 
-2. If a recipient does not open “Luma – New Seasonal Collection Announcement” with 2 days, send a follow-on email message with more targeted content: 
-   * Male customers should receive the “Luma Collection Men’s” email
-   * Female customers should receive the “Luma Collection Women’s” email 
-   * Other customers should receive the “Luma – 20% off collection” email 
+YOUR CHALLENGE
 
-3. After sending the targeted emails above, wait an hour, then listen for the email to be opened 
+Send an order confirmation email when someone completes an online purchase.
 
-4. If the targeted email is not opened within 2 days, send the “Luma – 20% off sales” email as a final retargeting attempt 
+>[!INFO]
+>
+>If you completed the Create and Personalize Messages challenge, you can skip this journey and move to Journey #3.
 
-5. Once completed, put the journey in test mode and trigger the journey to send to yourself 
+1. Create a journey that is triggered when a customer completes a web purchase on the Luma site to send the “Luma – Website – Order confirmation” email.
+2. Map contextual information from the *LumaOnlinePurchase* event to personalize the email. To personalize with contextual information, you must duplicate the *Luma – Website – Order confirmation* email and prefix it with your name and use that in the journey.
+3. Once completed, put the journey in test mode and trigger the journey to send to yourself. You can use “LLWH06” for the product SKU (Stock Keeping Unit) when triggering the test event, or browse the products on the [Luma website](https://publish1034.adobedemo.com/content/luma/us/en.html) if you would like to pick a different product. The SKU can be found on each product page, but leave off the suffix that denotes color/size, for example “.1-XS”
 
- 
+SUCCESS CRITERIA
 
-### Journey #2 – Order confirmation transactional email 
+You should receive the personalized purchase confirmation email, with the specified product.
 
-1. Create a journey that is triggered when a customer completes a web purchase on the Luma site to send the “Luma – Website – Order confirmation” email 
+### Journey #3 – Diamond status upgrade welcome email
 
-2. Map contextual information from the purchase event to personalize the email 
+YOUR CHALLENGE
 
-3. Once completed, put the journey in test mode and trigger the journey to send to yourself 
+Send an email when a loyalty customer moves to a new tier to congratulate and inform them of their new benefits.
 
- 
+1. Create a journey triggered when a customer moves into Diamond new loyalty tier (specifically when the customer enters the segment defined for a new Diamond level member) to send the “Luma – New Status – Diamond – Transactional” email
+2. Once completed, put the journey in test mode and trigger the journey to send to yourself  
 
-### Journey #3 – Diamond status upgrade welcome email 
+SUCCESS CRITERIA
 
-1. Create a journey triggered when a customer moves into a new loyalty tier (specifically when the customer enters the segment defined for a new Diamond level members) to send the “Luma – New Status – Diamond – Transactional” email 
+You should receive the personalized “Luma – New Status- Diamond-Transactional” email.
 
-2. Once completed, put the journey in test mode and trigger the journey to send to yourself 
+### Journey #4 – Product restock email
 
- 
+YOUR CHALLENGE
 
-### Journey #4 – Product restock email 
+When a previously out-of-stock item is back in stock, notify customers who had favorited the out-of-stock item with a call to start shopping now that the item is back in stock.
 
-Create a journey triggered when Product ABC123 is back in stock, to send the “Luma Email Product Replenishment” to notify users who had favorited the product while it was out of stock with a call-to-action to start shopping 
+1. Create a journey that is triggered when Product ABC123 is back in stock. It should an email (*Luma Email Product Replenishment*) to notify users who had favorited the product while it was out of stock. The email has a call-to-action to start shopping.
 
-Map contextual information from the product restock event to personalize the email 
+   * In the journey, check whether the restocked item is in the customer’s wish list before sending the email.
+   * Map contextual information from the *LumaProductRestock* event to personalize the email
 
-Once completed, put the journey in test mode and trigger the journey to send to yourself 
+2. To generate a wish list event for yourself, run the *Student Onboarding – Wishlist Event* . Use either *LLWH06* as the SKU or another SKU of choice found on the [Luma website](https://publish1034.adobedemo.com/content/luma/us/en.html).
 
->[!NOTE]
-> Check your work [here](/help/challenges/check-your-work.md).
+3. Once completed, put the journey in test mode and trigger the journey to send to yourself. Be sure to use the same SKU in the test event as you used when triggering the wish list event in the “Student Onboarding – Wishlist Event” journey
 
+SUCCESS CRITERIA
 
+You should receive the product restock email with the product you specified in the wish list event and test restock event.
 
+>[!INFO]
+>
+>You can see what the journeys should look like in the [Check your work](/help/challenges/check-your-work/create-journeys.md) section.
