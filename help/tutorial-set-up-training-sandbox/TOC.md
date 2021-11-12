@@ -8,4 +8,4 @@ index: yes
 
 # Journey Optimizer - Set up a training sandbox {#set-up-a-training-sandbox}
 
-+ [Overview](/help/overview.md)
++ [Overview](/help/tutorial-set-up-training-sandbox/overview.md)
