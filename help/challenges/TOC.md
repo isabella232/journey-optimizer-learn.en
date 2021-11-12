@@ -11,5 +11,6 @@ index: yes
 + [Introduction and pre-requisites](/help/challenges/introduction-and-pre-requisites.md)
 + [Create and personalize emails](/help/challenges/create-and-personalize-emails.md)
 + [Create Journeys](/help/challenges/create-journeys-challenge.md)
-+ CHeck your work {check-your-work}
++ Check your work {#check-your-work}
   + [Create Journeys](/help/challenges/check-your-work/create-journeys.md)
++ [Set up a training sandbox](/help/tutorial-set-up-training-sandbox/overview.md)

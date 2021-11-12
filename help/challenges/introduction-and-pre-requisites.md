@@ -4,15 +4,13 @@ description: Understand the basics of building a journey in the journey canvas.
 kt: 
 thumbnail: .jpg
 feature: Journeys
-team: PM
-role: User, Administrator
+role: Admin
 level: Beginner
 ---
 
 # Introduction and pre-requisites
 
 Challenges are exercises that 
-
 
 ## SYSTEM REQUIREMENTS
 
