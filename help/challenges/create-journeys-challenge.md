@@ -105,7 +105,7 @@ When a previously out-of-stock item is back in stock, notify customers who had f
    * In the journey, check whether the restocked item is in the customer’s wish list before sending the email.
    * Map contextual information from the *LumaProductRestock* event to personalize the email
 
-2. To generate a wish list event for yourself, run the *Student Onboarding – Wishlist Event* . Use either *LLWH06* as the SKU or another SKU of choice found on the [Luma website](https://publish1034.adobedemo.com/content/luma/us/en.html).
+2. To generate a wish list event for yourself, run the *Student Onboarding* Journey . Use either *LLWH06* as the SKU or another SKU of choice found on the [Luma website](https://publish1034.adobedemo.com/content/luma/us/en.html).
 
 3. Once completed, put the journey in test mode and trigger the journey to send to yourself. Be sure to use the same SKU in the test event as you used when triggering the wish list event in the “Student Onboarding – Wishlist Event” journey
 
