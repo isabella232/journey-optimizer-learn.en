@@ -11,7 +11,7 @@ thumbnail: .jpg
 
 The email body should match the “Luma – New Seasonal Collection” message provided in the training environment, and any personalization fields should be populated as expected
 
-## Email Message #2 – Order confirmation transactional email 
+## Email Message #2 – Order confirmation transactional email
 
 Subject line:
 
