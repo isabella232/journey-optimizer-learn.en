@@ -11,7 +11,7 @@ level: Beginner
 
 ## The story
 
-Luma, a fictional athletic apparel company, is looking to promote its latest apparel and gear collection and to drive sales for existing customers. To support the new collection campaign, the Luma marketing team asks you to create the segments that are required to  build the journey for the campaign.
+Luma, a fictional athletic apparel company, is looking to promote its latest apparel and gear collection and to drive sales for existing customers. To support the new collection campaign, the Luma marketing team asks you to create the [segments](/help/set-up-resources/create-segments.md) that are required to  build the journey for the campaign.
 
 ## Your Challenge
 
