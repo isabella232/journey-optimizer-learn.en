@@ -91,10 +91,10 @@ You are faced with three challenges:
 
 ### System requirements
 
-* Access to a Journey Optimizer Journey instance
-  * Make sure you have either *Journey Manager* or *Journey Administrator* rights
+* Access to a Journey Optimizer instance
 * AEM Assets Essentials must be provisioned for your instance
 * It is recommended to complete the challenge in a dedicated training sandbox. Refer to the [Set-up a training sandbox tutorial](/help/tutorial-set-up-training-sandbox/overview.md) for instructions.
+  * Make sure you have either *Journey Manager* or *Journey Administrator* rights
 
 ### Skills you might need
 
