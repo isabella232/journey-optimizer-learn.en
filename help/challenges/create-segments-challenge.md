@@ -1,5 +1,5 @@
 ---
-title: Create segments - Challenge
+title: Challenge 1 - Create segments
 description: Apply what you learned about creating segments and test your skills.
 kt: 8417
 feature: Segments
@@ -7,7 +7,7 @@ role: User
 level: Beginner
 ---
 
-# Create segments - Challenge
+# Challenge 1 - Create segments
 
 ## The story
 
@@ -19,13 +19,14 @@ Create the following segments in Journey Optimizer.
 
 ### Segment #1 – Active Customers
 
+Create an audience to target with the new summer collection announcement:
+
 * Name this segment *your name – Active Customers*
-* Create an audience to target with the new summer collection announcement.  
-* The audience must include only active Luma customers. Active customers are defined as customers who have a status in Luma’s loyalty program (silver, gold, platinum, or diamond).
+* The audience must include only active Luma customers. Active customers are defined as customers who have a tier in Luma’s loyalty program (silver, gold, platinum, or diamond)
 
 **SUCESS CRITERIA** 
 
-1. In the segment builder, you can see the estimated number of qualified profiles. If you are working in the training sandbox, this number should be equal or greater than 753.
+1. In the segment builder, you can see the estimated number of qualified profiles. If you are working in the training sandbox, this number should be equal or greater than 0.
 2. A qualifying profile has been added to the segment:
     * You can check if a profile has been added to the segment by navigating to one of the profiles listed on the Detail tab.  
     * On the profile page, check the attributes to confirm that they qualify and then check the segment membership.
