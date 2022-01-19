@@ -9,7 +9,7 @@ team: PM
 role: Admin, Developer
 level: Beginner
 ---
-# Set up email channel
+# Delegate CName subdomains
 
 Learn how to create a subdomain using CNAME to point to Adobe-specific records.
 
