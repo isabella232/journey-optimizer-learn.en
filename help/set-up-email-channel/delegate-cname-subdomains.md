@@ -14,3 +14,4 @@ level: Beginner
 Learn how to create a subdomain using CNAME to point to Adobe-specific records.
 
 >[!VIDEO](https://video.tv.adobe.com/v/339484?quality=12)
+
