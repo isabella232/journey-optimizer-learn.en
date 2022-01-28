@@ -19,6 +19,7 @@ Learn how to deliver [!DNL Offer Decisioning] [offers with the Decisions API](ht
 > This video is part of a course, [Getting Started with Offer Decisioning for Marketers](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), available for free on Experience League!
 
 ## Additional Resources
+
 * [Authenticate and access Experience Platform APIs (tutorial)](https://experienceleague.adobe.com/docs/platform-learn/tutorials/platform-api-authentication.html)
 * [[!DNL Postman] Collection for non-production authentication](https://github.com/adobe/experience-platform-postman-samples/tree/master/apis/ims)
 * [[!DNL Postman]](https://www.postman.com/)
