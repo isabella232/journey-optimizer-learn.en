@@ -15,7 +15,3 @@ exl-id: 168550e9-e304-4a1a-96da-8aab9e4af4dd
 Learn how to create a schema, add field groups, create, and configure custom field groups.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334461?quality=12)
-
-## Additional resources
-
-* [Create a schema, a dataset and ingest data to add Test profiles](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/about-journeys/creating-test-profiles.html)
