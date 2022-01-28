@@ -15,10 +15,3 @@ exl-id: 3a11a1ac-9bc7-4485-a1c2-a6b1beabcce4
 Learn how to add profile-based personalization to a message and how to use segment membership as a pre-condition to a personalization block.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334078?quality=12)
-
-## Additional resources
-
-* [Get started with personalization in Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/personalize.html)
-* [Use case: add personalization in a push notification](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/personalization-use-cases/personalization-use-case.html)
-* [Understand personalization syntax](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/personalization-syntax.html)
-* [Use helper functions](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/functions/functions.html)

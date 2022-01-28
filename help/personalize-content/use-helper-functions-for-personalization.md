@@ -16,7 +16,4 @@ Learn how to transform personalization values using personalization helper funct
 
 >[!VIDEO](https://video.tv.adobe.com/v/334244?quality=12)
 
-## Additional resources
-
-* [Get started with personalization in Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/personalize.html)
-* [Templating language and helper functions](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/functions/functions.html)
+See the product guide to learn more about [templating language and helper functions](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/functions/functions.html).

@@ -3,7 +3,7 @@ title: Create actions
 description: Understand the different states of a journey and the impact of publishing.
 kt: 7536
 thumbnail: 334257.jpg
-feature: Journeys, Data Sources
+feature: Actions
 doc-type: feature video
 team: PM
 role: Admin, Developer

@@ -15,9 +15,3 @@ Learn how brands can use Adobe’s [!DNL Offer Decisioning] service to define an
 >[!INFO]
 >
 > This video is part of a course, [Getting Started with Offer Decisioning for Marketers](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), available for free on Experience League!
-
-
-## Additional Resources
-
-* [Introduction to [!DNL Offer Decisioning] (video)](introduction-to-offer-decisioning.md)
-* [[!UICONTROL Decision Management] (documentation)](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/starting-offer-decisioning.html)
