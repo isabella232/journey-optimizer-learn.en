@@ -31,6 +31,19 @@ Create an audience to target with the new summer collection announcement:
     * You can check if a profile has been added to the segment by navigating to one of the profiles listed on the Detail tab.  
     * On the profile page, check the attributes to confirm that they qualify and then check the segment membership.
 
++++Check your work
+Select the Tier (CDM individual Profile >Loyalty> Tier)
+
+This is what your segment should look like:
+
+![Segment #1 - Active Customers](/help/challenges/assets/Challenge 1/C1-S1.png)
+
+Check the code on the bottom right corner of the Edit segment screen, under Events. The code should look like this:
+
+loyalty.tier.equals("diamond", false) or loyalty.tier.equals("gold", false) or loyalty.tier.equals("platinum", false) or loyalty.tier.equals("silver", false)
+
++++
+
 ## Segment #2 – Out-of-stock Wishlist items
 
 To target potential interested customers when products are restocked, create an audience that consists of customers
