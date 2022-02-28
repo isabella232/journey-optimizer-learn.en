@@ -2,7 +2,7 @@
 title: Deliver offers with the Decisions API
 description: Learn how to deliver Offer Decisioning offers with the Decisions API. 
 role: Developer
-feature: Offers, API
+feature: Offers
 kt: 6819
 thumbnail: 329919.jpg
 exl-id: 3084c52b-adc8-42bc-a203-5e39bcff77ef
