@@ -50,6 +50,7 @@ user-guide-description: Here are Journey Optimizer Learn Tutorials.
   + [Add offers as personalization](/help/personalize-content/add-offer-decisioning-to-messages.md)
   + [Use contextual event information for personalization](/help/personalize-content/use-contextual-event-information-for-personalization.md)
   + [Use helper functions for personalization](/help/personalize-content/use-helper-functions-for-personalization.md)
+  + [Use and manage saved expressions in the personalization library](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
 + Create journeys {#create-journeys}
   + [Introduction to building a journey](/help/create-journeys/introduction-to-building-a-journey.md)
   + [Use case - Transactional journey](/help/create-journeys/use-case-transactional-journey.md)
