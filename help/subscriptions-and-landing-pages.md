@@ -13,7 +13,7 @@ thumbnail: 341280.jpg
 Learn how to configure subscriptions and create landing pages:
 
 * Create a subscription list
-* Det-up landing pages to offer subscriptions to or un-subscriptions from a service
+* Set-up landing pages to offer subscriptions to or un-subscriptions from a service
 * Integrate the (un)subscription option in your message
 * Configure relevant journeys.
 
