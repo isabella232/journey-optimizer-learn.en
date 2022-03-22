@@ -15,17 +15,17 @@ This user guide contains videos and tutorials on features and capabilities of Ad
 
 ## What's New
 
+* **[Subscriptions and landing pages](/help/subscriptions-and-landing-pages.md)**
+  
+  *Learn how to configure subscriptions and create landing pages.*
+
 * **[Use and manage saved expressions in the personalization library](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)**
   
   *Learn how to use saved personalization library items in a message and how to create and manage personalization library items.*
 
 * **[Delegate CName subdomains](/help/set-up-email-channel/delegate-cname-subdomains.md)**
+  
   *Learn how to create a subdomain using CNAME to point to Adobe-specific records.*
-  
-* **[Create events](/help/set-up-journeys/create-events.md)**
-  
-  *Learn how to configure an event, specify the streaming endpoint and the payload for an event.*
-  
 
 ## Staff Picks
 
