@@ -1,13 +1,13 @@
 ---
 title: Configure subscriptions and landing pages
-description: Learn how to configure subscriptions and create landing pages. 
+description: Learn how to configure subscriptions and create landing pages.
 feature: Landing Pages, Subscriptions
 role: User
 level: Beginner
 kt: 9364
 thumbnail: 341280.jpg
+exl-id: b2da105b-ec0b-4bb8-8f68-993f92253cb4
 ---
-
 # Configure subscriptions and landing pages
 
 Learn how to configure subscriptions and create landing pages:
