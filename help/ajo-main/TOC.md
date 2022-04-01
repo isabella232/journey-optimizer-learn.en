@@ -41,7 +41,9 @@ user-guide-description: Here are Journey Optimizer Learn Tutorials.
   + [Create events](/help/set-up-journeys/create-events.md)
   + [Create actions](/help/set-up-journeys/create-actions.md)
 + [Create segments](/help/set-up-resources/create-segments.md)
++ [Assets Essentials](/help/assets-essentials-overview.md)
 + Create messages {#create-messages}
+  + [Massage designer overview](/help/create-messages/message-designer-overview.md)
   + [Create email content with the message editor](/help/create-messages/create-email-content-with-the-message-editor.md)
   + [Import and author HTML email content](/help/create-messages/import-and-author-html-email-content.md)
   + [Preview, proof, and publish](/help/create-messages/preview-proof-and-publish.md)
@@ -53,6 +55,7 @@ user-guide-description: Here are Journey Optimizer Learn Tutorials.
   + [Use and manage saved expressions in the personalization library](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
 + [Subscriptions and landing pages](/help/subscriptions-and-landing-pages.md)
 + Create journeys {#create-journeys}
+  + [Overview over the journey canvas](/help/create-journeys/overview-over-the-journey-canvas.md)
   + [Introduction to building a journey](/help/create-journeys/introduction-to-building-a-journey.md)
   + [Use case - Transactional journey](/help/create-journeys/use-case-transactional-journey.md)
   + [Use case - Read segment](/help/create-journeys/use-case-read-segment.md)
