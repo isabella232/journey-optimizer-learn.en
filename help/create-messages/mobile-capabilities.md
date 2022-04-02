@@ -1,6 +1,6 @@
 ---
 title: Mobile capabilities for marketers
-description: Understand Adobe Journey Optimizer's mobile capabilities. (Between 60 and 160 characters)
+description: Understand which mobile capabilities Adobe Journey Optimizer offers marketers.
 feature: SMS, In App, Push
 role: Leader, User
 level: Beginner
@@ -10,6 +10,6 @@ thumbnail: 342102.jpeg
 
 # Mobile capabilities for marketers
 
-Understand Adobe Journey Optimizer's mobile capabilities.
+Understand which mobile capabilities Adobe Journey Optimizer offers marketers.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342102?quality=12&learn=on)
