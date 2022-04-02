@@ -6,8 +6,8 @@ role: User
 level: Beginner
 kt: 10165
 thumbnail: 342098.jpeg
+exl-id: 78b7582b-76bc-4919-9e17-34966b5032f5
 ---
-
 # Assets Essentials Overview
 
 Get an overview over the Assets Essentials features and how it can be used in Adobe Journey Optimizer.
