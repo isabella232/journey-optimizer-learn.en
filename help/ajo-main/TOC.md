@@ -40,7 +40,7 @@ user-guide-description: Here are Journey Optimizer Learn Tutorials.
   + [Configure data sources](/help/set-up-journeys/configure-data-sources.md)
   + [Create events](/help/set-up-journeys/create-events.md)
   + [Create actions](/help/set-up-journeys/create-actions.md)
-+ Customer profiles, segments and subscriptions {# .      profiles-segments-subscriptions}
++ Customer profiles, segments and subscriptions {#profiles-segments-subscriptions}
   + [Unified profile and segmentation - overview](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
   + [Create segments](/help/set-up-resources/create-segments.md)
   + [Subscriptions and landing pages](/help/subscriptions-and-landing-pages.md)
