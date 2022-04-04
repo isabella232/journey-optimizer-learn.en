@@ -1,5 +1,5 @@
 ---
-title: Overview
+title: Unified profile and segmentation - Overview
 description: Understand how to create a unified profile and then build segments based on profile attributes in order to personalize customer journeys.
 feature: Profiles, Segments
 role: User
@@ -8,7 +8,7 @@ kt: 10183
 thumbnail: 342114.jpg
 ---
 
-# Overview
+# Unified profile and segmentation - Overview
 
 Understand how to create a unified profile and then build segments based on profile attributes in order to personalize customer journeys.
 
