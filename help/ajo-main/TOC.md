@@ -40,7 +40,10 @@ user-guide-description: Here are Journey Optimizer Learn Tutorials.
   + [Configure data sources](/help/set-up-journeys/configure-data-sources.md)
   + [Create events](/help/set-up-journeys/create-events.md)
   + [Create actions](/help/set-up-journeys/create-actions.md)
-+ [Create segments](/help/set-up-resources/create-segments.md)
++ Customer profiles, segments and subscriptions {profiles-segments-subscriptions}
+  + [Unified profile and segmentation - overview](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
+  + [Create segments](/help/set-up-resources/create-segments.md)
+  + [Subscriptions and landing pages](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Create messages {#create-messages}
   + [Massage designer overview](/help/create-messages/message-designer-overview.md)
@@ -55,7 +58,6 @@ user-guide-description: Here are Journey Optimizer Learn Tutorials.
   + [Use contextual event information for personalization](/help/personalize-content/use-contextual-event-information-for-personalization.md)
   + [Use helper functions for personalization](/help/personalize-content/use-helper-functions-for-personalization.md)
   + [Use and manage saved expressions in the personalization library](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
-+ [Subscriptions and landing pages](/help/subscriptions-and-landing-pages.md)
 + Create journeys {#create-journeys}
   + [Overview over the journey canvas](/help/create-journeys/overview-over-the-journey-canvas.md)
   + [Introduction to building a journey](/help/create-journeys/introduction-to-building-a-journey.md)
