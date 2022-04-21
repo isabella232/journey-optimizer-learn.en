@@ -34,7 +34,7 @@ user-guide-description: Here are Journey Optimizer Learn Tutorials.
   + [Create personalized offers](/help/decision-management/create-personalized-offers.md)
   + [Create fallback offers](/help/decision-management/create-fallback-offers.md)
   + [Create collections](/help/decision-management/create-collections.md)
-  + [Create offer activities](/help/decision-management/create-offer-activities.md)
+  + [Create decisions](/help/decision-management/create-decisions.md)
   + [Deliver offers with the Decisions API](/help/decision-management/deliver-offers-with-the-decisions-api.md)
 + Journeys configuration{#journey-configuration}
   + [Configure data sources](/help/set-up-journeys/configure-data-sources.md)
