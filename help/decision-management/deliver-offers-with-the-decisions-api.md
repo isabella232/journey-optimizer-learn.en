@@ -8,7 +8,7 @@ thumbnail: 329919.jpg
 exl-id: 3084c52b-adc8-42bc-a203-5e39bcff77ef
 ---
 
-# Deliver offers with the Decisions API
+# Deliver offers with the Decisions Hub API
 
 Learn how to deliver offers [with the Decisions Hub API](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offer-delivery/deliver-offers.html). Using [!DNL Postman] to demonstrate, an API call is made to retrieve the container id. Next, a sample Decisions API call is customized with the activity id, placement id, identity namespace, and customer id to retrieve a personalized offer. Once you've retrieved a personalized offer with the Decisions API, you can integrate the offer content with your marketing system.
 
