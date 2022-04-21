@@ -1,6 +1,6 @@
 ---
 title: Demo of the decision management capabilities
-description: Learn how brands can use the decision management capabilitues to define and manage their offers, apply real-time customer data, and deliver the right experiences their customers expect.
+description: Learn how brands can use the decision management capabilities to define and manage their offers, apply real-time customer data, and deliver the right experiences their customers expect.
 feature: Offers
 kt: 6492
 thumbnail: 326841.jpg
