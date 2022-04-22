@@ -25,7 +25,7 @@ user-guide-description: Here are Journey Optimizer Learn Tutorials.
 + Channel configuration {#channel-configuration}
   + [Set up email channel](/help/set-up-email-channel/set-up-email-channel.md)
   + [Delegate CName subdomains](/help/set-up-email-channel/delegate-cname-subdomains.md)
-+ Decision management configuration {#decision-management-configuration}
++ Decision management {#decision-management}
   + [Introduction to decision management](/help/decision-management/introduction-to-decision-management.md)
   + [Demo of the decision management capabilities](/help/decision-management/demo-of-decision-management-capabilities.md)
   + [Create placements](/help/decision-management/create-placements.md)
